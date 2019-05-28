@@ -1,0 +1,34 @@
+body {
+    
+    margin: 0px
+    margin-top: 10px;
+    background-color: blue;
+    text-align: center;
+}
+    
+    
+
+ 
+.row {
+
+
+}
+
+ .column {
+    display: inline-block;
+    width: 90px;
+    height:100px;
+    text-align: center;
+    background-color: whitesmoke;
+    font-size 35px;
+    margin-top: 8px;
+    padding: 35px
+    
+}
+
+button {
+    margin-top:14;
+    padding:30px;
+    font-size: 40px;
+    font color: #004444;
+}
